@@ -1,0 +1,9 @@
+math_id,math_topic,target_concept,relationship
+M001,Linear Algebra,P001,applies to
+M001,Linear Algebra,C001,applies to
+M001,Linear Algebra,B001,applies to
+M001,Linear Algebra,E001,applies to
+M001,Linear Algebra,T001,applies to
+M002,Quantum Mechanics,P001,applies to
+M002,Quantum Mechanics,C001,applies to
+
